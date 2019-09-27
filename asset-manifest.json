@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stellaywu.github.io/static/css/main.34de6062.chunk.css",
-    "main.js": "/stellaywu.github.io/static/js/main.6da456ca.chunk.js",
-    "main.js.map": "/stellaywu.github.io/static/js/main.6da456ca.chunk.js.map",
-    "runtime-main.js": "/stellaywu.github.io/static/js/runtime-main.5bd2cb44.js",
-    "runtime-main.js.map": "/stellaywu.github.io/static/js/runtime-main.5bd2cb44.js.map",
-    "static/js/2.9f570112.chunk.js": "/stellaywu.github.io/static/js/2.9f570112.chunk.js",
-    "static/js/2.9f570112.chunk.js.map": "/stellaywu.github.io/static/js/2.9f570112.chunk.js.map",
-    "index.html": "/stellaywu.github.io/index.html",
-    "precache-manifest.aac00c6c36b8eadf40ba506b2c57b9aa.js": "/stellaywu.github.io/precache-manifest.aac00c6c36b8eadf40ba506b2c57b9aa.js",
-    "service-worker.js": "/stellaywu.github.io/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/stellaywu.github.io/static/css/main.34de6062.chunk.css.map",
-    "static/media/profile.jpg": "/stellaywu.github.io/static/media/profile.49b493a0.jpg"
+    "main.css": "/portfolio/static/css/main.34de6062.chunk.css",
+    "main.js": "/portfolio/static/js/main.6e5e2cba.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.6e5e2cba.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f18c160f.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f18c160f.js.map",
+    "static/js/2.9f570112.chunk.js": "/portfolio/static/js/2.9f570112.chunk.js",
+    "static/js/2.9f570112.chunk.js.map": "/portfolio/static/js/2.9f570112.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.c965640c558f6126ffe401ac728b7b51.js": "/portfolio/precache-manifest.c965640c558f6126ffe401ac728b7b51.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/portfolio/static/css/main.34de6062.chunk.css.map",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.49b493a0.jpg"
   }
 }
